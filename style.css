@@ -27,9 +27,12 @@
 }
 
 .text{
-
+    padding: auto;
+    display: flex;
+    line-height: 130%;
+    margin: auto;
+	text-align: center;
 }
-
 .knop_back{
     width: 1360px;
     height: 90px;
