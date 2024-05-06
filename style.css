@@ -1,0 +1,42 @@
+.telo{
+    margin: 0 auto;
+    background-color: #93ACBB;
+
+}
+
+.blue_fone{
+    background-color: #021C28;
+    width: 1440px;
+    height: 600px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 35px;
+    margin: auto;
+    margin-top: 30px;
+
+}
+
+.block{
+    background-color: #6CC8AC;
+    width: 1360px;
+    height: 510px;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 40px;
+    border-radius: 50px;
+}
+
+.text{
+
+}
+
+.knop_back{
+    width: 1360px;
+    height: 90px;
+    background-color: #6CC8AC;
+    border-radius: 50px;
+    position: relative;
+    border: none;
+    margin-top: 400px;
+    cursor: pointer;
+}
